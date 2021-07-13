@@ -1,5 +1,5 @@
 {
-  "name": "alongwy/flarum-elasticsearch",
+  "name": "richsheep/flarum-elasticsearch",
   "description": "elasticsearch for flarum",
   "keywords": [
     "flarum",
@@ -13,8 +13,8 @@
   },
   "authors": [
     {
-      "name": "alongwy",
-      "email": "alongwyforever@outlook.com",
+      "name": "richsheep",
+      "email": "richsheep@hotmail.com",
       "role": "Developer"
     }
   ],
